@@ -1,7 +1,6 @@
 Objective:
 Understand how to read, summarize, and visualize a dataset.
 Apporach:
-
 1)Import pandas library for data manipulation and analysis
   Import matplotlib and seaborn for data visualizations.
 2)loading data set
